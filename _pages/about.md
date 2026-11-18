@@ -5,7 +5,6 @@ permalink: /
 author_profile: true
 ---
 
-# About Me
 I am a theoretical nuclear physicist and hold a permanent position as Professor of Physics at the Federal Center for Technological Education of Minas Gerais (CEFET-MG), Brazil, where I have been a faculty member since 2014.
 
 I received my B.Sc. in Physics from the Federal University of Itajubá (UNIFEI) in 2010, followed by an M.Sc. (2012) and a Ph.D. (2016) in Physics from the Federal University of Santa Catarina (UFSC).
