@@ -13,16 +13,16 @@ title                    : "Dr. Luiz L. Lopes"
 title_separator          : "-"
 name                     : &name "Luiz L. Lopes"
 description              : &description "Personal academic website of Dr. Luiz L. Lopes"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://el-llopes.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://el-llopes.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               :"el-llopes/el-llopes.github.io"
+repository               : "el-llopes/el-llopes.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar        : "profile.png"
+  avatar        : "profile.png" # Upload this image to the images/ folder
   name          : "Dr. Luiz L. Lopes"
   pronouns      : "he/him"
   bio           : "Theoretical nuclear physicist studying neutron stars, dense matter, and nuclear equations of state."
@@ -34,13 +34,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=pt-BR&user=L8nSsT0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=L8nSsT0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0982-9774"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,13 +50,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "el-llopes"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
